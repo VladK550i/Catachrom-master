@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Azure</string>
+    <string name="title_activity_login">Deposit manager -> Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">Password must contain at least one A&#8211;Z, one a&#8211;z, one 0&#8211;9 character and have 8 symbols</string>
+    <string name="error_incorrect_password">Incorrect login/password</string>
+    <string name="error_registration_failed">Registration failed</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_exist_login">This email already exist</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main">Deposit manager</string>
+    <string name="title_activity_registration">Deposit manager -> Registration</string>
+    <string name="title_activity_deposit_info">Deposit info&#8230;</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment"></string>
+    <string name="title_activity_depositinfo">Deposit info</string>
+    <string name="title_activity_bankinfo">Bank info</string>
+</resources>
